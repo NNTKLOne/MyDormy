@@ -5,6 +5,8 @@
 **MyDormy** - tai išmanioji studentų bendrabučių kambarių rezervavimo ir valdymo sistema, skirta palengvinti ir automatizuoti apgyvendinimo procesą universitetuose.  
 Sistema centralizuoja studentų prašymus, kambarių rezervacijas, apžiūrų planavimą, sutarčių pasirašymą ir palengvina komunikaciją tarp administracijos, budėtojų, studentų bei esamų gyventojų.
 
+**Komanda** - Augustas Česnavičius, Dominik Lavcel, Vilius Ničiperovičius.
+
 ---
 
 ## Pagrindinės funkcijos
